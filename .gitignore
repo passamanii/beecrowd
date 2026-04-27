@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Environment
+*.json
+*.vscode
+
 # Object files
 *.o
 *.ko
